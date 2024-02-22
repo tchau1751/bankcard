@@ -1,0 +1,4 @@
+#redirect all requests to index.php, except the assets files
+RewriteEngine on
+RewriteCond %{REQUEST_URI} !^/assets
+RewriteRule ^(.*)$ index.php?action=$1 [L,QSA]
