@@ -1,0 +1,10 @@
+.input-group-addon,
+.picker-switch {
+  cursor: pointer;
+}
+
+label[for="datetime"] {
+  top: 8px;
+  position: relative;
+  right: 5px;
+}
