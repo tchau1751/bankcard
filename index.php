@@ -22,7 +22,7 @@ if ($isAjax) {
 <!DOCTYPE html>
 <html>
 <head>
-  <title>ABF Appointment Booking Form</title>
+  <title>Booking </title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- include bootstrap -->
   <link rel="stylesheet" type="text/css" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
